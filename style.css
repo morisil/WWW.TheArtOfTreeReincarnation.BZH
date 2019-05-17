@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background: black;
+  color: white;
+
+}
+
+header {
+  padding-top: 100vh;
+  background: url("lisa.jpg");
+  background-position: right bottom;
+  background-size: cover;
+}
