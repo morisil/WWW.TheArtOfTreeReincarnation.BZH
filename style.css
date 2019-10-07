@@ -16,6 +16,7 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   line-height: 1.5 !important;
   text-align: center;
+  text-transform: uppercase;
 }
 
 footer {
