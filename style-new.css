@@ -18,6 +18,8 @@ header > h1 {
 
 p {
   font-family: 'Libre Baskerville', serif;
+  font-size: 1.3em;
+  color: #bb7836;
 }
 
 h1 {
@@ -45,3 +47,4 @@ a:active {
 a:hover {
   color: white;
 }
+
