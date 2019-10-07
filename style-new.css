@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
 
 body {
@@ -12,24 +11,22 @@ header {
   margin-bottom: 3em;
 }
 
-header > h1 {
-  line-height: 2;
+h1 {
+  color: #c20906;
+  font-family: 'Libre Baskerville', serif;
+  line-height: 2 !important;
+  text-align: left;
+}
+
+footer {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
 p {
-  font-family: 'Libre Baskerville', serif;
-  font-size: 1.3em;
   color: #bb7836;
-}
-
-h1 {
   font-family: 'Libre Baskerville', serif;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  font-size: 70px;
-  text-align: center;
-  font-weight: 400;
-  color: #c20906;
 }
 
 .carousel-indicators li {
@@ -38,11 +35,11 @@ h1 {
 }
 
 a:link {
-  color: #ffdf4d;
+  color: #c20906;
 }
 
 a:visited {
-  color: #ffdf4d;
+  color: #c20906;
 }
 
 a:active {
@@ -50,6 +47,6 @@ a:active {
 }
 
 a:hover {
-  color: white;
+  color: white !important;
 }
 
