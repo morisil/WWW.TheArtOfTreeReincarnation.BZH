@@ -55,3 +55,9 @@ a:hover {
 .nowrap {
   white-space: nowrap;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 1.8rem !important;
+  }
+}
