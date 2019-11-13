@@ -87,7 +87,16 @@ a:hover {
 
 @media (max-width: 576px) {
   h1 {
-    font-size: 1.8rem !important;
+    font-size: 1.8em !important;
+  }
+  h2 {
+    font-size: 1.6em !important;
+  }
+  h3 {
+    font-size: 1.4em !important;
+  }
+  h4 {
+    font-size: 1.2em !important;
   }
 }
 
