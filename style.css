@@ -42,7 +42,6 @@ h2 {
 h3 {
   color: #bb7836;
   font-size: 2em !important;
-  text-transform: uppercase;
   margin-bottom: .7em !important;
   text-align: center;
 }
@@ -112,10 +111,6 @@ a:hover {
 .lisa-materials-description {
   font-size: 1em;
   text-align: center;
-}
-
-.lisa-uppercase {
-  text-transform: uppercase;
 }
 
 .lisa-gallery img {
