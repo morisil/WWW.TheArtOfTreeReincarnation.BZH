@@ -245,3 +245,7 @@ a:hover {
 .lisa-toggler.navbar-toggler {
   border-color: black;
 }
+
+.lisa-image-stripe {
+  width: 100%;
+}
