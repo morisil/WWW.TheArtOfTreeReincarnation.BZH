@@ -249,3 +249,7 @@ a:hover {
 .lisa-image-stripe {
   width: 100%;
 }
+
+.lisa-centered-content {
+  text-align: center;
+}
