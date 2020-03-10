@@ -255,5 +255,6 @@ a:hover {
   text-align: center;
 }
 
-
-/* trigger toggle */
+.lisa-link-list {
+  list-style-type: none;
+}
