@@ -36,13 +36,14 @@ h2 {
   font-size: 2.5em !important;
   text-transform: uppercase;
   margin-top: 1em !important;
-  margin-bottom: 1.5em !important;
+  margin-bottom: 1em !important;
   text-align: center;
 }
 
 h3 {
   color: #bb7836;
   font-size: 2em !important;
+  margin-top: .7em !important;
   margin-bottom: .7em !important;
   text-align: center;
 }
@@ -269,4 +270,12 @@ a:hover {
 
 .lisa-link-list {
   list-style-type: none;
+}
+
+.lisa-red {
+  color: #c20906;
+}
+
+.lisa-description-text {
+  font-size: 1.1rem;
 }
